@@ -1,14 +1,6 @@
-# Mobile, desktop and website Apps with the same code
 
-[![Build Status](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator.svg?branch=master)](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator) [![Dependency Status](https://david-dm.org/benoitvallon/react-native-nw-react-calculator.svg)](https://david-dm.org/benoitvallon/react-native-nw-react-calculator) [![devDependency Status](https://david-dm.org/benoitvallon/react-native-nw-react-calculator/dev-status.svg)](https://david-dm.org/benoitvallon/react-native-nw-react-calculator#info=devDependencies)
 
-This project shows how the source code can be architectured to run on multiple devices. As of now, it is able to run as:
 
-- iOS & Android Apps (based on [react-native](https://facebook.github.io/react-native))
-- a Desktop App based on [NW](http://nwjs.io) or based on [Electron](http://electron.atom.io)
-- a Website App in any browser (based on [react](https://facebook.github.io/react))
-
-A demo for the Website App is available [here](http://benoitvallon.github.io/react-native-nw-react-calculator).
 
 ## Screenshots
 
